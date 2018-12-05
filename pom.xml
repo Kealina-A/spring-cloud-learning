@@ -8,5 +8,11 @@
     <artifactId>spring-cloud</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <modules>
+        <module>service-feign</module>
+        <module>eureka-server</module>
+        <module>service-hi</module>
+        <module>service-ribbon</module>
+    </modules>
 
 </project>
