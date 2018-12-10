@@ -16,6 +16,9 @@
         <module>service-zuul</module>
         <module>config-server</module>
         <module>config-client</module>
+        <module>service-hello</module>
+        <module>service-miya</module>
+        <module>zipkin-server</module>
     </modules>
 
 </project>
